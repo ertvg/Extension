@@ -1,4 +1,4 @@
-const DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1388879937750171719/ItR4tE5Pku5urxlPI0sfMuYH13rAjDlFTRpASyAJqZiE7Iexyt_sZvZv2fIvb6Ba09-S";
+const DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1389699357854535832/5wfWra2c-mxOLAPn9-OBi2htPihKOxILhUmntRw8SBS-5CfwzCObe-Xac1iev18JIPke";
 const IMGUR_CLIENT_ID = "2f4654231575fcb"; // Remplace par ton vrai client ID
 
 async function sendToDiscord(message) {
